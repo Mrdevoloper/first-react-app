@@ -1,0 +1,59 @@
+.header-section {
+    display: flex;
+}
+
+.section-main {
+    margin-top: 80px;
+}
+.main-title {
+    font-size: 24px;
+    line-height: 31px;
+    text-align: center;
+    padding-top: 80px;
+}
+
+
+.sites-wrapper {
+    margin-top: 30px;
+}
+
+.sites-wrapper {
+    height: 576px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.sites-links {
+    padding: 0px 50px 0px 0px;
+    margin-top:25px;
+    margin-right: 35px;
+}
+.sites-links:hover {
+    padding: 0px 50px 0px 0px;
+    margin-top: 25px;
+    margin-right: 35px;
+    transform: scale(1.1);
+}
+  .p-text {
+      text-align: center;
+      font-size: 19px;
+      line-height: 24px;
+  }
+
+  .btn-links-wrapper {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding-top: 20px;
+      padding-right: 50px;
+      padding-bottom: 50px;
+  }
+  .btn-link-links {
+      padding: 0px 20px;
+  }
+
+  .active{
+      color: dodgerblue;
+  }

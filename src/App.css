@@ -1,19 +1,16 @@
 *{
     box-sizing: border-box;
 }
-
 body{
     margin: 0px;
     padding: 0px;
     font-family:sans-serif;
-   
 }
-
 
 li {
     list-style-type: none;
-  }
+}
   a {
       color: #fff;
       text-decoration: none;
-  }
+}

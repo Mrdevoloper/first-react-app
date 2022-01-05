@@ -1,0 +1,23 @@
+
+ .service-wrapper {
+    display: flex;
+    margin-left: 100px;
+}
+
+.service-text {
+    margin-left: 180px;
+}
+.txst {
+    text-align: left;
+}
+
+.btn4 {
+ margin-left: 573px;
+ margin-top: 40px;
+ font-weight: 700;
+ margin-bottom: 60px;
+}
+
+.secondImg{
+    margin-left: 150px;
+}

@@ -8,13 +8,9 @@ import Footer from './Component/footer/footer'
 function App() {
   return (
 <>
-
 <Header/>
-
 <Main/>
-
 <Footer/>
-  
 </>
   );
 }

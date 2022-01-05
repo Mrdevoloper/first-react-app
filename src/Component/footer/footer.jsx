@@ -3,6 +3,7 @@ import footerPic1 from '../../assets/Vector@2x.png'
 import footerPic2 from '../../assets/insta.png'
 import footerPic3 from '../../assets/face.png'
 
+
  function Footer(){
      return (
 <footer class="footer-section">
@@ -10,7 +11,7 @@ import footerPic3 from '../../assets/face.png'
       <ul class="wrapper-footer">
           <li class="footer-link">
               <h1 class="footer-word1">
-                  Copyright 2020
+                  Copyright 2022
               </h1>
               <p class="footer-text ">
                   <a href="index.html">
@@ -33,7 +34,7 @@ import footerPic3 from '../../assets/face.png'
                   Biz internetda
               </h1>
               <p class="footer-texts">
-                  <a className='listTag' href="@nasibullaev">
+                  <a className='listTag' href="">
                         <img src= {footerPic1}  width="22px" height="23px" alt="" />
                       <span>Telegram</span>
                   </a>
