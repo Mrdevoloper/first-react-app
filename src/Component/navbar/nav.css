@@ -1,0 +1,96 @@
+  button {
+    cursor: pointer;
+    margin:auto;
+  }
+.wrapper-heading {
+    margin:0px;
+} 
+.container {
+    width:1300px;
+    margin:auto;
+} 
+.wrapper {
+    display: flex;
+    align-items: center;
+    box-shadow: 0px 0px 10px  rgba(0, 0, 0, 0.1);
+    padding-right: 100px;    
+}
+.link-navbar {
+   padding: 10px 20px 10px 30px; 
+   font-weight: 500;
+}
+.logo {
+    margin-right: 200px;
+}
+button {
+   width: 160px;
+   height: 40px;
+   background:#00BAFC;
+   font-size: 15px;
+   color: #fff;
+   border: none;
+   border-radius: 5px;
+}
+button:hover {
+    width: 160px;
+    height: 40px;
+    background: #09a4dd;
+    font-size: 15px; 
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+ }
+
+.points {
+    text-decoration: none;
+    cursor: pointer;
+    font-size: 17px;
+    color: black;
+} 
+.points:hover {
+    text-decoration: none;
+    cursor: pointer;
+    font-size: 17px;
+    color:#09a4dd ;
+}
+
+.header-title {
+    font-size: 30px;
+    line-height: 39px;
+    padding-top: 90px;
+    padding-left: 70px;
+}
+
+.header-text {
+    width: 465px;
+    height: 74px;
+    font-size: 17px;
+    line-height: 24px;
+    padding-left: 70px;
+}
+
+.btn2 {
+    width: 230px;
+    height: 40px;
+    margin-top: 35px;
+    margin-left: 70px;
+}
+
+.header-pic {
+    position: relative;
+    width: 458px;
+    height: 258px;
+    border-radius: 5px;
+    left: 30px;
+    top: 120px;
+}
+.youtube {
+    position: relative;
+    width: 150px;
+    height: 105px;
+    left: 170px;
+    top: -50px;
+}
+.header-section {
+    display: flex;
+}
